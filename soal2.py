@@ -8,5 +8,3 @@ elif b >= a and b >= c:
     print("Bilangan terbesar:", b)
 else:
     print("Bilangan terbesar:", c)
-
-    
